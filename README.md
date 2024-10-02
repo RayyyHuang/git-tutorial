@@ -1,1 +1,2 @@
-print("Hello, smart people.)
+print("Hello, smart people.")
+print("I finally find you!!!")
